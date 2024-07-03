@@ -5,3 +5,11 @@ div{
     box-shadow:10px 20px;
     border-radius: 10px;
 }
+style{
+    .login{
+        color: aquamarine;
+        background-color: aqua;
+        border-radius: 10px;
+    }
+}
+   
